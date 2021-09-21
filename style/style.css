@@ -1,0 +1,26 @@
+.success{
+    color: green;
+}
+
+.warning{
+    color: yellow;
+}
+
+.error{
+    color: red;
+}
+
+.results{
+
+    font-size: 30px;
+    color: rgb(48, 89, 105);
+
+
+    
+   
+}
+
+.results img{
+    width: 20%;
+    
+}
